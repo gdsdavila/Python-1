@@ -1,0 +1,1 @@
+SELECT * from compras order by dtcompra, produto
