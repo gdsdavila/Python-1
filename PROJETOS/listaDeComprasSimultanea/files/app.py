@@ -25,8 +25,8 @@ import websocket  # biblioteca "websocket-client" (nome de import é "websocket"
 # ⚠️ IMPORTANTE: troque pelo endereço real do seu servidor depois que ele
 # estiver hospedado na internet (veja o README.md do projeto para o passo
 # a passo de hospedagem gratuita).
-SERVIDOR_HTTP = "http://SEU-SERVIDOR-AQUI:8000"
-SERVIDOR_WS = "ws://SEU-SERVIDOR-AQUI:8000/ws"
+SERVIDOR_HTTP = "https://python-1-cliz.onrender.com"
+SERVIDOR_WS = "wss://python-1-cliz.onrender.com/ws"
 
 
 def main(page: ft.Page):
